@@ -1,0 +1,22 @@
+From e7b816cdf80402817918fadf863d40be269a3964 Mon Sep 17 00:00:00 2001
+From: unknown <balamuruganr.20cse@kongu.edu>
+Date: Wed, 3 May 2023 11:53:19 +0530
+Subject: [PATCH] updated
+
+---
+ bala.txt.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/bala.txt.txt b/bala.txt.txt
+index 6df14ab..6d525bd 100644
+--- a/bala.txt.txt
++++ b/bala.txt.txt
+@@ -1 +1,2 @@
+-lorem soprem bala
+\ No newline at end of file
++lorem soprem bala
++dinesh
+\ No newline at end of file
+-- 
+2.37.3.windows.1
+

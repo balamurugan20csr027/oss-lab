@@ -1,0 +1,27 @@
+From 93003ad464df9796fe8aba6f72e96f8508778468 Mon Sep 17 00:00:00 2001
+From: balamurugan20csr027
+ <114232962+balamurugan20csr027@users.noreply.github.com>
+Date: Mon, 24 Apr 2023 04:42:27 +0000
+Subject: [PATCH 2/2] push
+
+---
+ index.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/index.html b/index.html
+index f838c64..c31df46 100644
+--- a/index.html
++++ b/index.html
+@@ -9,5 +9,8 @@
+ <body>
+     <h1>Sample
+         </h1>
++        <h2>
++            Added new
++        </h2>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.37.3.windows.1
+
